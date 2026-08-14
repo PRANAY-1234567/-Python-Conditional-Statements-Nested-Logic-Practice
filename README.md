@@ -58,7 +58,8 @@ Modulus operator %
 Nested if
 Conditional statements
 User input
-2️⃣ List Operations
+
+## 2️⃣ List Operations
 📌 Description
 
 This program checks whether the entered data is a list. If it is a list, the user can select an operation.
@@ -86,7 +87,8 @@ Enter the option(1,2,3): 3
 
 Note: In the provided code, options 1 and 2 both call data.pop(), so they currently perform the same operation.
 
-3️⃣ Facebook Username and Password Validation
+## 3️⃣ Facebook Username and Password Validation
+
 📌 Description
 
 This program demonstrates a basic login validation system.
@@ -114,7 +116,9 @@ Nested if
 String comparison
 User authentication logic
 Input handling
-4️⃣ Driving License Validation
+
+## 4️⃣ Driving License Validation
+
 📌 Description
 
 This program determines whether a person can drive based on their age and driving license status.
@@ -129,7 +133,9 @@ Nested if
 Comparison operators
 String comparison
 Decision-making
-5️⃣ ATM Withdrawal Validation
+
+## 5️⃣ ATM Withdrawal Validation
+
 📌 Description
 
 This program simulates a basic ATM withdrawal process.
@@ -182,6 +188,7 @@ if pin == 1234:
         print("Insufficient balance")
 else:
     print("wrong Pin number")
+    
 6️⃣ Loan Eligibility Check
 📌 Description
 
