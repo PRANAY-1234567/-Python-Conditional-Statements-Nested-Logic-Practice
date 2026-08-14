@@ -189,7 +189,8 @@ if pin == 1234:
 else:
     print("wrong Pin number")
     
-6️⃣ Loan Eligibility Check
+## 6️⃣ Loan Eligibility Check
+
 📌 Description
 
 This program determines whether a person is eligible for a loan based on age and salary.
