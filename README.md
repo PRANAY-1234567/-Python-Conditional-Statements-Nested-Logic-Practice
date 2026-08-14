@@ -32,7 +32,9 @@ Python-Conditional-Programs/
 ├── 07_bookmyshow_ticket_booking.py
 │
 └── README.md
-1️⃣ Odd Number and Divisibility by 7
+
+## 1️⃣ Odd Number and Divisibility by 7
+
 📌 Description
 
 This program checks whether a given number is odd. If the number is odd, it further checks whether it is divisible by 7.
