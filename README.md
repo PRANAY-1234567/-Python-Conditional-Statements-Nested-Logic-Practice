@@ -7,7 +7,6 @@ This repository is designed to strengthen Python fundamentals through practical 
 📌 Overview
 
 The programs in this collection demonstrate how Python conditional logic can be used to solve common programming problems.
-
 The main concepts covered are:
 
 if, elif, and else
