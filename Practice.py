@@ -12,7 +12,6 @@ else:
     print(f'The given number {num} is even')
 #==========================================================================
 
-
 #WAP to perform list operations user should enter only 
 
 data = eval(input("Enter the data type: "))
