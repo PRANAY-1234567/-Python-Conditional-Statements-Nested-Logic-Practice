@@ -208,7 +208,9 @@ Nested if
 Comparison operators
 Multiple conditions
 Decision-making
-7️⃣ BookMyShow Ticket Booking Simulation
+
+## 7️⃣ BookMyShow Ticket Booking Simulation
+
 📌 Description
 
 This program demonstrates a simplified movie-ticket booking system.
