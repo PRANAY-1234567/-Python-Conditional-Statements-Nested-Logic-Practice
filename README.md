@@ -35,6 +35,7 @@ Python-Conditional-Programs/
 │
 └── README.md
 
+
 ## 1️⃣ Odd Number and Divisibility by 7
 
 📌 Description
