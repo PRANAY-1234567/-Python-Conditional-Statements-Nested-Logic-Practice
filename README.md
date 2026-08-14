@@ -256,7 +256,9 @@ User input
 String comparison
 List indexing
 Basic booking logic
+
 🧠 Key Python Concepts
+
 Conditional Statements
 
 The programs extensively use:
