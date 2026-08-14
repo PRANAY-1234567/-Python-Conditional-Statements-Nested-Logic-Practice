@@ -306,3 +306,73 @@ clear()
 Removes all elements from a list.
 
 data.clear()
+
+▶️ How to Run
+Step 1: Install Python
+
+Verify Python installation:
+
+python --version
+Step 2: Clone the Repository
+git clone <your-repository-url>
+Step 3: Open the Project
+cd Python-Conditional-Programs
+Step 4: Run a Program
+
+For example:
+
+python 01_odd_divisible_by_7.py
+🎯 Learning Objectives
+
+After completing these exercises, you will have practical experience with:
+
+Python conditional statements
+Nested if statements
+User input
+Number validation
+String validation
+List operations
+Type checking
+Membership operators
+Basic authentication logic
+ATM transaction logic
+Loan eligibility logic
+Ticket-booking logic
+Real-world decision-making programs
+🔮 Future Improvements
+
+The programs can be extended by adding:
+
+Exception handling with try-except
+Functions for reusable logic
+Loops for repeated operations
+Menu-driven interfaces
+Input validation
+Object-Oriented Programming
+Tkinter GUI
+Flask web interface
+Database integration
+Automated unit testing
+📚 Technologies Used
+Technology	Purpose
+Python	Core programming language
+Conditional Statements	Decision-making
+Lists	Store collections of data
+Functions	Reusable logic
+String Operations	User validation
+Exception Handling	Future input validation
+👨‍💻 Author
+
+Pranay Jadhao
+
+B.E. Electronics & Telecommunication Engineering
+
+Technical Interests: Python • Java • SQL • Flask • Firebase • Software Development
+
+📄 License
+
+This project is intended for educational and learning purposes.
+
+You are free to use and modify the programs for practice and learning.
+
+⭐ If this repository helped you learn Python, consider giving it a Star!
