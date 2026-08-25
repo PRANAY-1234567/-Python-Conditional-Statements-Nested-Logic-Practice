@@ -276,5 +276,3 @@ B.E. Electronics & Telecommunication Engineering
 This repository is part of my **Python learning and programming practice journey**, focusing on building strong fundamentals before moving toward advanced Python, SQL, data analysis, and software development concepts.
 
 If you find this repository useful, consider giving it a ⭐ on GitHub.
-
-
