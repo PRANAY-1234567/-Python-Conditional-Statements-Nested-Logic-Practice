@@ -34,7 +34,7 @@ if isinstance(data,list):
 else:
     print("Invalid Data Type")
 
-#=================================================================
+#==============================================================================================
 
 #Wap to validate facebook username and password condition is :-->username--->"Python" and password="Pyhon masters"
 print("Welcome to facebook page")
